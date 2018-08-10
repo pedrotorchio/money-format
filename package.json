@@ -1,0 +1,32 @@
+{
+  "name": "money-format",
+  "version": "1.0.0",
+  "description": "Package with money format utils",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrotorchio/money-format.git"
+  },
+  "keywords": [
+    "money",
+    "format",
+    "javascript",
+    "typescript",
+    "js",
+    "utils"
+  ],
+  "author": "pedrotorchio <pedrotorchio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrotorchio/money-format/issues"
+  },
+  "homepage": "https://github.com/pedrotorchio/money-format#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
