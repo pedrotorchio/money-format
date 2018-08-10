@@ -8,10 +8,6 @@
     "build": "tsc",
     "start": "tsc"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pedrotorchio/money-format.git"
-  },
   "keywords": [
     "money",
     "format",
@@ -20,7 +16,15 @@
     "js",
     "utils"
   ],
-  "author": "pedrotorchio <pedrotorchio@gmail.com>",
+  "author": {
+    "name": "Pedro Torchio",
+    "email": "pedro@torchiodev.com",
+    "url": "http://www.torchiodev.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrotorchio/money-format.git"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pedrotorchio/money-format/issues"
